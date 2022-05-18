@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/nicolasgomeztoua/Pathfinder/static/css/main.6422a217.chunk.css",
-    "main.js": "/nicolasgomeztoua/Pathfinder/static/js/main.37823016.chunk.js",
-    "main.js.map": "/nicolasgomeztoua/Pathfinder/static/js/main.37823016.chunk.js.map",
-    "runtime-main.js": "/nicolasgomeztoua/Pathfinder/static/js/runtime-main.7066ab2e.js",
-    "runtime-main.js.map": "/nicolasgomeztoua/Pathfinder/static/js/runtime-main.7066ab2e.js.map",
-    "static/js/2.1d6f89a3.chunk.js": "/nicolasgomeztoua/Pathfinder/static/js/2.1d6f89a3.chunk.js",
-    "static/js/2.1d6f89a3.chunk.js.map": "/nicolasgomeztoua/Pathfinder/static/js/2.1d6f89a3.chunk.js.map",
-    "static/js/3.21572000.chunk.js": "/nicolasgomeztoua/Pathfinder/static/js/3.21572000.chunk.js",
-    "static/js/3.21572000.chunk.js.map": "/nicolasgomeztoua/Pathfinder/static/js/3.21572000.chunk.js.map",
-    "index.html": "/nicolasgomeztoua/Pathfinder/index.html",
-    "static/css/main.6422a217.chunk.css.map": "/nicolasgomeztoua/Pathfinder/static/css/main.6422a217.chunk.css.map",
-    "static/js/2.1d6f89a3.chunk.js.LICENSE.txt": "/nicolasgomeztoua/Pathfinder/static/js/2.1d6f89a3.chunk.js.LICENSE.txt"
+    "main.css": "/nicolasgomeztoua/Path-Finding-Visualizer/static/css/main.6422a217.chunk.css",
+    "main.js": "/nicolasgomeztoua/Path-Finding-Visualizer/static/js/main.37823016.chunk.js",
+    "main.js.map": "/nicolasgomeztoua/Path-Finding-Visualizer/static/js/main.37823016.chunk.js.map",
+    "runtime-main.js": "/nicolasgomeztoua/Path-Finding-Visualizer/static/js/runtime-main.d1b50e47.js",
+    "runtime-main.js.map": "/nicolasgomeztoua/Path-Finding-Visualizer/static/js/runtime-main.d1b50e47.js.map",
+    "static/js/2.1d6f89a3.chunk.js": "/nicolasgomeztoua/Path-Finding-Visualizer/static/js/2.1d6f89a3.chunk.js",
+    "static/js/2.1d6f89a3.chunk.js.map": "/nicolasgomeztoua/Path-Finding-Visualizer/static/js/2.1d6f89a3.chunk.js.map",
+    "static/js/3.21572000.chunk.js": "/nicolasgomeztoua/Path-Finding-Visualizer/static/js/3.21572000.chunk.js",
+    "static/js/3.21572000.chunk.js.map": "/nicolasgomeztoua/Path-Finding-Visualizer/static/js/3.21572000.chunk.js.map",
+    "index.html": "/nicolasgomeztoua/Path-Finding-Visualizer/index.html",
+    "static/css/main.6422a217.chunk.css.map": "/nicolasgomeztoua/Path-Finding-Visualizer/static/css/main.6422a217.chunk.css.map",
+    "static/js/2.1d6f89a3.chunk.js.LICENSE.txt": "/nicolasgomeztoua/Path-Finding-Visualizer/static/js/2.1d6f89a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7066ab2e.js",
+    "static/js/runtime-main.d1b50e47.js",
     "static/js/2.1d6f89a3.chunk.js",
     "static/css/main.6422a217.chunk.css",
     "static/js/main.37823016.chunk.js"
