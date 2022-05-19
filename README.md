@@ -1,5 +1,5 @@
 # Try this yourself.
-### [Path Finding Visualizer](https://github.com/nicolasgomeztoua/Pathfinder)
+### [Path Finding Visualizer](https://pathfinder-two.vercel.app/)
 
 # Getting Started with Create React App
 
