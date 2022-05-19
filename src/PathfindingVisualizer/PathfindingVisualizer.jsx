@@ -354,7 +354,7 @@ export default class PathfindingVisualizer extends Component {
         <div className="container">
           <div className="heading">
             <h2 onClick={showPopUp}>Search Visualizer</h2>
-            <h2>{topMessage}</h2>
+            <h2 style={{display:"none"}}>{topMessage}</h2>
           </div>
 
           {/* Show the header */}
